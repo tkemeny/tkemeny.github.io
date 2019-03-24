@@ -1,9 +1,9 @@
 # main links links
 main:
   - title: "Research"
-    url: /articles/
+    url: /research/
 
-  - title: "Data"
+  - title: "Data/Tools"
     url: /data/    
        
   - title: "CV"
