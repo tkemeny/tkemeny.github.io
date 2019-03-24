@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
  
-Contact
-=====
 
 Here's a few different ways to get in touch and/or see what I'm up to:
 
