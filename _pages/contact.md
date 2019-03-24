@@ -1,15 +1,14 @@
 ---
-permalink: /contact
+layout: archive
 title: "Contact"
-excerpt: "Contact"
+permalink: /contact/
 author_profile: true
-redirect_from: 
-  - /contact/
-  - /contact.html
+redirect_from:
+  - /Contact
 ---
 
 {% include base_path %}
  
  bla bla
- 
+ ==========
  
