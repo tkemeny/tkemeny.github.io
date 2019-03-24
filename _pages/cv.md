@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Full CV <a href="">here</a>
-======
+You can find my full CV <a href="">here</a>
 
 Education
 ======
