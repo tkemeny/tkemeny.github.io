@@ -12,16 +12,11 @@ redirect_from:
 
 Here's a few different ways to get in touch and/or see what I'm up to:
 
-School of Business and Management
-
-Mile End Campus
-
-Queen Mary University of London
-
-Mile End Road
-
-London, UK
-
+School of Business and Management  
+Mile End Campus  
+Queen Mary University of London  
+Mile End Road  
+London, UK  
 E1 4NS
 
 
