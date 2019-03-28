@@ -1,11 +1,7 @@
 ---
 layout: archive
-title: "Research"
+title: "Research in Progress"
 permalink: /research/
 author_profile: true
 ---
 
-test
-===
-
-I'll eventually put working papers here
