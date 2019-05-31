@@ -3,9 +3,6 @@ permalink: /
 title: "About"
 excerpt: "About"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 I'm a Senior Lecturer (what non-Brits call an Associate Professor) in Economic Development in the School of Business and Management at <a href="https://qmul.ac.uk" target="_blank">Queen Mary, University of London</a>. Right now I’m also a Visiting Fellow at LSE’s <a href="http://www.lse.ac.uk/International-Inequalities" target="_blank"> International Inequalities Institute</a>. Before joining QMUL, I held academic appointments in Geography departments at the University of Southampton, and the London School of Economics; and before all that in the Department of Public Policy at the University of North Carolina at Chapel Hill. I used to be a Special Sworn Status Researcher at the US Census Bureau's Center for Economic Studies. And I did my PhD in Urban Planning at UCLA. 
