@@ -22,7 +22,7 @@ E1 4NS
 
 Email: tkemeny [at] qmul.ac.uk
 
-Twitter: <a href="https://twitter.com/KemenyThomas">KemenyThomas </a>
+Twitter: <a href="https://twitter.com/_tomkemeny">_tomkemeny </a>
 
 QMUL: <a href="https://www.qmul.ac.uk/busman/staff/kemeny-thomas.html">Tom Kemeny </a>
 
