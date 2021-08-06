@@ -15,6 +15,7 @@ I sit on the Editorial Board of the <a href="https://academic.oup.com/joeg"  tar
 
 Cutting across my research interests, I’m interested in policy efforts to stimulate prosperity. I have advised governments and NGOs on issues of regional and international development, including the Organisation for Economic Co-operation and Development (OECD), the U.S. Economic Development Administration, and the World Bank. 
 
+You can find my full CV <a href="/_pages/tkemeny_cv.pdf">here</a>
 
 
 
