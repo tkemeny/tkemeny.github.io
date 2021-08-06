@@ -11,8 +11,6 @@ redirect_from:
 
 You can find my full CV <a href="/_pages/tkemeny_cv.pdf">here</a>
 
-Recent Publications
-======
 Local Job Multipliers Revisited (2021, Forthcoming), _Journal of Regional Science_. (with Taner Osman). <br>
  		 <a href="/_pages/JRS_ljmr_accepted.pdf">_Open-access preprint_</a>
 
