@@ -20,7 +20,7 @@ London, UK
 E1 4NS
 
 
-Email: tkemeny [at] qmul.ac.uk
+Email: t.kemeny [at] qmul.ac.uk
 
 Twitter: <a href="https://twitter.com/_tomkemeny">_tomkemeny </a>
 
