@@ -22,7 +22,7 @@ Does assimilation shape the economic value of immigrant diversity?(2021), _Econo
 		  <a href="/_pages/EG_divssim.pdf">Preprint (ungated) </a> 
 
 The Fall and Rise of Interregional Inequality: Explaining Shifts from Convergence to Divergence  (2020), _Italian Journal of Regional Science (Scienze Regionali)_. (with Michael Storper). <br>
- 		 <a href="https://www.rivisteweb.it/doi/10.14650/97084" target=_blank>  Published version (gated) </a>
+ 		 <a href="https://www.rivisteweb.it/doi/10.14650/97084" target=_blank>  Published version (gated) </a><br>
 		 <a href="/_pages/scienzeregionali_acceptedversion.pdf"> Preprint (ungated) </a> 
 
 Creative Differences? Measuring Creative Economy Employment in the US and UK (2020), _Regional Studies_. (with Dave O'Brien and Max Nathan). <br>
