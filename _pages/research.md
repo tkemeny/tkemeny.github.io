@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research in Progress"
+title: "Research in Progress (and experiments)"
 permalink: /research/
 author_profile: true
 ---
@@ -8,10 +8,6 @@ author_profile: true
 <h3><a href="http://eprints.lse.ac.uk/103312/" target="_blank"> Superstar cities and left-behind places: disruptive innovation, labor demand, and interregional inequality.</a></h3>  LSE III Working Paper No. 41. With Michael Storper.
 
 <p> After a long period of convergence, around 1980, inter-place gaps in economic well-being in the United States began to increase. This rising inequality offers a rich terrain to explore causality in regional economics and development theory. This paper presents new, long-run evidence on interregional inequality that highlights the need to situate the current moment in a context of episodic alternations between convergence and divergence. In light of this evidence, the paper revisits the theoretical literature, finding gaps in existing supply- and demand-side models. A demand-led perspective can be strengthened by integrating a primary role for disruptive technological change. We posit a theory of alternating waves, where major technology shocks initially concentrate, and eventually deconcentrate, demand for skilled workers performing complementary tasks. Labor supply responds to these centripetal and centrifugal forces. These reversals yield the observed patterns of rising and falling interregional inequality. We trace out the implications of this theory in both academic and policy terms. </p>
-
-<h3><a href="https://www.iza.org/en/publications/dp/11740/creative-differences-measuring-creative-economy-employment-in-the-us-and-uk-using-microdata" target="_blank"> Creative Differences? Measuring Creative Economy Employment in the US and UK Using Microdata.</a></h3>  IZA Discussion Paper No. 11740. With Max Nathan and Dave O'Brien.
-
-<p>Using high-quality administrative microdata spanning 2011-2013, this paper develops new routines to compare creative economies using the creative trident framework, and applies them to the UK and US national and regional contexts. We find the UK creative economy is larger in workforce shares, and grows faster over the study period; the US' is absolutely larger, and is distributed more evenly across industries. Regional results are shaped by deeper differences in national urban systems. The paper highlights possibilities for widely varying national configurations of creative economies, considers potential mechanisms driving differentiation, and reflects on the usefulness of the creative trident approach.</p>
 
 <h3><a href="http://epapers.bham.ac.uk/3051/1/bbs-dp-2017-01-nathan.pdf" target="_blank"> Using Crunchbase to explore innovative ecosystems in the US and UK</a></h3> Birmingham Business School Discussion Paper 2017-01. With Max Nathan and Bader Almeer. 
 
