@@ -21,7 +21,7 @@ Does assimilation shape the economic value of immigrant diversity?(2021), _Econo
  		 <a href="https://doi.org/10.1080/00130095.2021.1897462" target=_blank>  Published version (gated)</a> <br>
 		  <a href="/_pages/EG_divssim.pdf">Preprint (ungated) </a> 
 
-The Fall and Rise of Interregional Inequality: Explaining Shifts from Convergence to Divergence  (2020), _Italian Journal of Regional Science (Scienze Regionali)_. (with Michael Storper). <br>
+The Fall and Rise of Interregional Inequality: Explaining Shifts from Convergence to Divergence  (2020), _Italian Journal of Regional Science_. (with Michael Storper). <br>
  		 <a href="https://www.rivisteweb.it/doi/10.14650/97084" target=_blank>  Published version (gated) </a><br>
 		 <a href="/_pages/scienzeregionali_acceptedversion.pdf"> Preprint (ungated) </a> 
 
