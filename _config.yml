@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr. Tom Kemeny"
 title_separator          : "-"
 name                     : &name "Dr. Tom Kemeny"
-description              : &description "Reader (Associate Professor) in Economic Development at Queen Mary, University of London"
+description              : &description "Associate Professor, Munk School of Global Affairs & Public Policy, University of Toronto"
 url                      : https://tkemeny.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tkemeny.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Tom Kemeny"
   avatar           : "tom_small.png"
-  bio              : "Social scientist studying cities, economic development and inequality; Assoc. Prof at Queen Mary, University of London"
-  location         : "London, UK"
+  bio              : "Social scientist studying cities, economic development and inequality; Assoc. Prof at Munk School of Global Affairs & Public Policy, University of Toronto"
+  location         : "Toronto, Canada"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=1bBUHOUAAAAJ&hl=en&oi=ao"

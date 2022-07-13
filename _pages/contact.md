@@ -12,18 +12,18 @@ redirect_from:
 
 Here's a few different ways to get in touch and/or see what I'm up to:
 
-School of Business and Management  
-Mile End Campus  
-Queen Mary University of London  
-Mile End Road  
-London, UK  
-E1 4NS
+Munk School of Global Affairs & Public Policy
+University of Toronto
+1 Devonshire Place  
+Toronto, Ontario, 
+M5S 3K7 
+Canada
 
 
-Email: t.kemeny [at] qmul.ac.uk
+Email: tom.kemeny [at] urotonto.ca
 
 Twitter: <a href="https://twitter.com/_tomkemeny">_tomkemeny </a>
 
-QMUL: <a href="https://www.qmul.ac.uk/busman/staff/kemeny-thomas.html">Tom Kemeny </a>
+U of T: <a href="https://munkschool.utoronto.ca/profile/kemeny-tom/">Tom Kemeny </a>
 
 Google Scholar: <a href="https://scholar.google.com/citations?hl=en&pli=1&user=1bBUHOUAAAAJ">Tom Kemeny</a>
