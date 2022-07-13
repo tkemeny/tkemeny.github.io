@@ -11,7 +11,7 @@ I study cities and local labor markets. Much of my current work is focused on th
 
 For my work on <a href="https://doi.org/10.1093/cjres/rsx027" target="_blank"> Brexit and immobility</a>, my co-authors and I won the <a href="https://www.understandingsociety.ac.uk/2019/07/11/prizes-for-researchers-and-papers-at-understanding-society-conference" target="_blank">Understanding Society Paper Prize</a>. In 2016, my paper on the economic value of <a href="https://doi.org/10.1093/jeg/lbv043" target="_blank">local social networks <a/> won the <a href="https://academic.oup.com/joeg/pages/urban_land_institute_prize" target="_blank">Urban Land Institute Prize</a> for the best paper published in the <i>Journal of Economic Geography</i>. Back in 2013, I also won an Early Career Award from the Regional Studies Association. 
 
-I sit on the Editorial Board of the <i>Journal of Economic Geography</i>. Between 2017 and 2021, I served as an Associate Editor at <i>Regional Studies</i>.
+I sit on the Editorial Board of the <i>Journal of Economic Geography</i>. Between 2017 and 2021, I served as an Editor at <i>Regional Studies</i>.
 
 Cutting across my research interests, I’m interested in policy efforts to stimulate prosperity. I have advised governments and NGOs on issues of regional and international development, including the Organisation for Economic Co-operation and Development (OECD), the U.S. Economic Development Administration, and the World Bank. 
 
