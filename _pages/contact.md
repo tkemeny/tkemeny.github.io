@@ -12,11 +12,11 @@ redirect_from:
 
 Here's a few different ways to get in touch and/or see what I'm up to:
 
-Munk School of Global Affairs & Public Policy
-University of Toronto
-1 Devonshire Place  
-Toronto, Ontario, 
-M5S 3K7 
+Munk School of Global Affairs & Public Policy <br>
+University of Toronto <br>
+1 Devonshire Place   <br>
+Toronto, Ontario, <br>
+M5S 3K7 <br>
 Canada
 
 
