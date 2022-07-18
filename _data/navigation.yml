@@ -6,7 +6,7 @@ main:
   - title: "Books"
     url: /books/    
     
-  - title: "In progress"
+  - title: "Working Papers"
     url: /research/
 
   - title: "Data/Tools"
