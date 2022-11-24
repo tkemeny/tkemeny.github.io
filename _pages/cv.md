@@ -11,6 +11,8 @@ redirect_from:
 
 _You can find my full CV <a href="/_pages/tkemeny_cv.pdf">here</a>_
 
+<h2>Some recent work</h2>
+
 Does assimilation shape the economic value of immigrant diversity?(2021), _Economic Geography_. (with Silje Haus-Reve, Abigail Cooke and Rune Dahl Fitjar). <br>
  		 <a href="https://doi.org/10.1080/00130095.2021.1897462" target=_blank>  Published version (gated)</a> <br>
 
