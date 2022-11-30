@@ -16,7 +16,7 @@ _You can find my full CV <a href="/_pages/tkemeny_cv.pdf">here</a>_
 Disruptive innovation and spatial inequality. 2022, _Regional Studies_. (with Sergio Petralia and Michael Storper). <b> <a href="https://doi.org/10.1080/00343404.2022.2076824" target=_blank> Published version (Open Access) </a> <br>
 
 
-Are mixed neighborhoods more socially cohesive? Evidence from Nanjing, China. 2022, _Urban Geography_. (with Ying Wang).<b> <a href="https://doi.org/10.1080/02723638.2021.2021714" target=_blank>  Published version (Open Access)</a> <br>
+Are mixed neighborhoods more socially cohesive? Evidence from Nanjing, China. 2022, _Urban Geography_. (with Ying Wang).<br> <a href="https://doi.org/10.1080/02723638.2021.2021714" target=_blank>  Published version (Open Access)</a> <br>
 
 Local Job Multipliers Revisited, 2021, _Journal of Regional Science_. (with Taner
 Osman). <br><a href="https://doi.org/10.1111/jors.12561" target=_blank> Published version (Free to read)</a> <br>
