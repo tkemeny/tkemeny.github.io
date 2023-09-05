@@ -4,6 +4,10 @@ title: "Data"
 permalink: /data/
 author_profile: true
 ---
+<h2>Commuting zone assignments for group-based trajectory modelling in <a href="https://doi.org/10.1080/00130095.2023.2244111" target="_blank"> The Changing Shape of Spatial Income Disparities in the United States </a>  </h2>
+
+Stat file with probabilistic group assignments available <a href="/files/traj_probabilities.dta" target="_blank">here</a>
+
 <h2>Selected O*NET occupational codes, with crosswalk to IPUMS Public Use occupational codes for 1990 </h2>
   
 Stata file available <a href="/files/onet-master_selected.dta" target="_blank">here</a>
