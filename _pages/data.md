@@ -5,9 +5,10 @@ permalink: /data/
 author_profile: true
 ---
 
-<h2>GEOWEALTH local wealth and wealth inequality estimates for the United States, from <a href="http://eprints.lse.ac.uk/119980/" target="_blank"> LSE III working paper </a>  </h2>
+<h2>GEOWEALTH local wealth and wealth inequality estimates for the United States </h2>
 
-Data repository <a href="https://doi.org/10.3886/E192306V1" target="_blank">here</a>
+From <a href="http://eprints.lse.ac.uk/119980/" target="_blank"> LSE III working paper </a>; 
+Data repository <a href="https://doi.org/10.3886/E192306V1" target="_blank">here</a>.
 
 
 <h2>Commuting zone assignments for group-based trajectory modelling in <a href="https://doi.org/10.1080/00130095.2023.2244111" target="_blank"> The Changing Shape of Spatial Income Disparities in the United States </a>  </h2>
