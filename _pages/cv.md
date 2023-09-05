@@ -12,6 +12,11 @@ redirect_from:
 _You can find my full CV <a href="/_pages/tkemeny_cv.pdf">here</a>_
 
 <h2>Some recent work</h2>
+The Changing Shape of Spatial Income Disparities in the United States (2023) _Economic Geography_. (with Michael Storper) <br> <a href="https://doi.org/10.1080/00130095.2023.2244111" target="_blank"> DOI:
+10.1080/00130095.2023.2244111 <a/><br>
+
+Frontier Workers, and the Seedbeds of Inequality and Prosperity (2023) _Journal of Economic Geography_. (with Dylan Connor and Michael Storper) <br> 
+<a href="https://doi.org/10.1093/jeg/lbad018" target="_blank">DOI: 10.1093/jeg/lbad018 <a/> <br>
 
 Disruptive innovation and spatial inequality (2022), _Regional Studies_. (with Sergio Petralia and Michael Storper). <br> <a href="https://doi.org/10.1080/00343404.2022.2076824" target=_blank> Published version (Open Access)</a> <br>
 
@@ -39,15 +44,4 @@ The Wider Impacts of High-Technology Employment: Evidence from U.S. Cities, 2018
  Immobility and the Brexit Vote  (2018), _Cambridge Journal of Regions, Economy and Society_. (with Katy Morris and Neil Lee). <br>
  		<a href="https://doi.org/10.1093/cjres/rsx027" target=_blank> Published version (gated)  </a><br>
 		
-Spillovers from Immigrant Diversity in Cities (2017), _Journal of Economic Geography_. (with Abigail Cooke). <br>
- 		<a href="https://doi.org/10.1093/jeg/lbx012" target=_blank> Published version (open access)  </a> 
-
-The Economic Geography of Immigrant Diversity: Disparate Impacts and New Directions (2017), _Geography Compass_. (with Abigail Cooke). <br>
- 		<a href="https://doi.org/10.1111/gec3.12331" target=_blank> Published version (open access)  </a> 
-
-Cities, Immigrant Diversity and Complex Problem Solving (2017), _Research Policy_. (with Abigail Cooke). <br>
- 		<a href="https://doi.org/10.1016/j.respol.2017.05.003" target=_blank> Published version (open access)  </a> 	
-		
-Urban Immigrant Diversity and Inclusive Institutions (2017	), _Economic Geography_. (with Abigail Cooke). <br>
- 		<a href="https://doi.org/10.1080/00130095.2017.1300056" target=_blank> Published version (open access)  </a> 	
-				 
+ 
