@@ -15,7 +15,7 @@ _You can find my full CV <a href="/_pages/tkemeny_cv.pdf">here</a>_
 The Changing Shape of Spatial Income Disparities in the United States (2023) _Economic Geography_. (with Michael Storper) <br> <a href="https://doi.org/10.1080/00130095.2023.2244111" target="_blank"> Published version (gated)<a/>, ungated preprint <a href="https://osf.io/wnd8t/download" target="_blank">here<a/>  <br>
 
 Frontier Workers, and the Seedbeds of Inequality and Prosperity (2023) _Journal of Economic Geography_. (with Dylan Connor and Michael Storper) <br> 
-<a href="https://doi.org/10.1093/jeg/lbad018" target="_blank">Published version (gated) <a/> <br>
+<a href="https://doi.org/10.1093/jeg/lbad018" target="_blank">Published version (gated) <a/>, ungated preprint <a href="https://osf.io/d93sj/download" target="_blank">here<a/>  <br>
 
 Disruptive innovation and spatial inequality (2022), _Regional Studies_. (with Sergio Petralia and Michael Storper). <br> <a href="https://doi.org/10.1080/00343404.2022.2076824" target=_blank> Published version (Open Access)</a> <br>
 
