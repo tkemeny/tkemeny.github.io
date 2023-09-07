@@ -7,7 +7,7 @@ author_profile: true
 
 <h2>GEOWEALTH local wealth and wealth inequality estimates for the United States </h2>
 
-From <a href="http://eprints.lse.ac.uk/119980/" target="_blank"> LSE III working paper </a>; 
+From <a href="http://eprints.lse.ac.uk/119980/" target="_blank"> LSE III working paper</a>; 
 Data repository <a href="https://doi.org/10.3886/E192306V1" target="_blank">here</a>.
 
 
