@@ -14,6 +14,10 @@ _You can find my full CV <a href="/_pages/tkemeny_cv.pdf">here</a>_
 <h2>Some recent work</h2>
 The Changing Shape of Spatial Income Disparities in the United States (2023) _Economic Geography_. (with Michael Storper) <br> <a href="https://doi.org/10.1080/00130095.2023.2244111" target="_blank"> Published version (gated)<a/>, ungated preprint <a href="https://osf.io/wnd8t/download" target="_blank">here<a/>  <br>
 
+Who gets left behind by left behind places? (2023) _Cambridge Journal of Regions, Economy and Society_ (with Dylan Connor, Aleksander Berg and Peter Kedron) <br> 
+<a href="https://doi.org/10.1093/cjres/rsad031" target="_blank">Published version (gated) <a/>, ungated preprint <a href="https://osf.io/preprints/socarxiv/nkydt/download" target="_blank">here<a/>  <br>
+
+
 Frontier Workers, and the Seedbeds of Inequality and Prosperity (2023) _Journal of Economic Geography_. (with Dylan Connor and Michael Storper) <br> 
 <a href="https://doi.org/10.1093/jeg/lbad018" target="_blank">Published version (gated) <a/>, ungated preprint <a href="https://osf.io/d93sj/download" target="_blank">here<a/>  <br>
 
