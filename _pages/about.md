@@ -22,4 +22,6 @@ Cutting across my research interests, I’m interested in policy efforts to stim
 
 Before joining U of T, I held academic appointments at Queen Mary, University of London; the University of Southampton; the London School of Economics; and the University of North Carolina at Chapel Hill. I received my PhD from UCLA. 
 
+_You can find my full CV <a href="/_pages/tkemeny_cv.pdf">here</a>_
+
 
