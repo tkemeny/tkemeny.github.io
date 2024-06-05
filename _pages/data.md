@@ -5,10 +5,9 @@ permalink: /data/
 author_profile: true
 ---
 
-<h2>GEOWEALTH local wealth and wealth inequality estimates for the United States </h2>
+<h2>GEOWEALTH-US: Spatial wealth inequality data for the United States, 1960–2020 </h2>
 
-From <a href="https://doi.org/10.1038/s41597-024-03059-9" target="_blank"> Scientific Data paper</a>; 
-Data repository <a href="https://doi.org/10.3886/E192306" target="_blank">here</a>.
+Describes measures of average wealth and local wealth inequality for PUMAs, Commuting Zones, Metropolitan Areas, States and Census Regions. Full details in <a href="https://doi.org/10.1038/s41597-024-03059-9" target="_blank"> my paper </a> with Joel Suss and Dylan Connor, published at <i>Scientific Data</i>; Data repository <a href="https://doi.org/10.3886/E192306" target="_blank">here</a>.
 
 
 <h2>Commuting zone assignments for group-based trajectory modelling in <a href="https://doi.org/10.1080/00130095.2023.2244111" target="_blank"> The Changing Shape of Spatial Income Disparities in the United States </a>  </h2>
