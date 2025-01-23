@@ -6,10 +6,7 @@ author_profile: true
 ---
 
 
-<a href="http://eprints.lse.ac.uk/119980/" target="_blank"> GEOWEALTH: spatial wealth inequality data for the United States, 1960-2020.</a> 2023. LSE III Working Paper No. 99. With Joel Suss and Dylan Connor.
-
-
-<a href="https://osf.io/preprints/socarxiv/nkydt/download" target="_blank"> Who gets left behind by left behind places?</a> 2023. SocArxiv. With Dylan Connor, Peter Kedron and Aleksander Berg.
+<a href="https://eprints.lse.ac.uk/120154/1/III_working_paper_103.pdf" target="_blank"> The transformative effects of tacit technological knowledge.</a> 2023. LSE III Working Paper No. 103. With Michael Storper and Sergio Petralia.
 
 
 <a href="http://eprints.lse.ac.uk/103312/" target="_blank"> Superstar cities and left-behind places: disruptive innovation, labor demand, and interregional inequality.</a> 2020. LSE III Working Paper No. 41. With Michael Storper.
