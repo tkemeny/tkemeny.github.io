@@ -12,7 +12,9 @@ redirect_from:
 _You can find my full CV <a href="/_pages/tkemeny_cv.pdf">here</a>_
 
 <h2>Some recent work</h2>
-GEOWEALTH-US: Spatial wealth inequality data for the United States, 1960-2020 (Forthcoming 2024)  _Scientific Data_. (with Joel Suss and Dylan Connor) <br>   <a href="https://doi.org/10.1038/s41597-024-03059-9" target="_blank">Published version (Open Access)<a/>  <br>
+Big cities fuel inequality within and across generations." (2025) _PNAS nexus_. (with Dylan Connor, Siqiao Xie, Jiwon Jang, Amy E. Frazier, Peter Kedron, Garima Jain, and Yilei Yu.    <br>   <a href="https://doi.org/10.1093/pnasnexus/pgae587" target="_blank">Published version (Open Access)<a/>  <br>
+
+GEOWEALTH-US: Spatial wealth inequality data for the United States, 1960-2020 (2024)  _Scientific Data_. (with Joel Suss and Dylan Connor) <br>   <a href="https://doi.org/10.1038/s41597-024-03059-9" target="_blank">Published version (Open Access)<a/>  <br>
 
 The Changing Shape of Spatial Income Disparities in the United States (2023) _Economic Geography_. (with Michael Storper) <br> <a href="https://doi.org/10.1080/00130095.2023.2244111" target="_blank"> Published version (gated)<a/>, ungated preprint <a href="https://osf.io/wnd8t/download" target="_blank">here<a/>  <br>
 
