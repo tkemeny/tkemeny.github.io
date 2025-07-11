@@ -22,8 +22,10 @@ Canada
 
 Email: tom.kemeny [at] urotonto.ca
 
-Twitter: <a href="https://twitter.com/_tomkemeny">_tomkemeny </a>
+LinkedIn: <a href="https://www.linkedin.com/in/tom-kemeny-41aa776/">Tom Kemeny</a>
 
-U of T: <a href="https://munkschool.utoronto.ca/profile/kemeny-tom/">Tom Kemeny </a>
+Twitter: <a href="https://twitter.com/_tomkemeny">_tomkemeny </a> 
 
 Google Scholar: <a href="https://scholar.google.com/citations?hl=en&pli=1&user=1bBUHOUAAAAJ">Tom Kemeny</a>
+
+U of T: <a href="https://munkschool.utoronto.ca/profile/kemeny-tom/">Tom Kemeny </a>
