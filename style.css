@@ -1,0 +1,668 @@
+:root {
+  --text: #0b0c0e;
+  --muted: #555;
+  --light: #f5f6f7;
+  --max-width: 1400px;
+ --accent: #ff7a1a;
+  --hero-width: 88vw;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "IBM Plex Sans", system-ui, sans-serif;
+  color: var(--text);
+  background: white;
+  line-height: 1.55;
+}
+
+a {
+  color: var(--text);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--accent);
+}
+
+/* ---------------- NAVIGATION ---------------- */
+
+.site-header {
+  position: relative;
+  padding: 1.4rem 2rem;
+  border-bottom: 1px solid #e9e9e9;
+}
+
+.nav-wrapper {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-name {
+  font-weight: 700;
+  font-size: 1.25rem;
+}
+
+.hamburger {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+}
+
+.hamburger span {
+  display: block;
+  width: 26px;
+  height: 3px;
+  background: black;
+  margin: 5px 0;
+  transition: 0.3s;
+}
+
+.hamburger:hover span {
+  background: var(--accent);
+}
+
+/* MENU OVERLAY */
+
+.menu-overlay {
+  position: fixed;
+  inset: 0;
+  background: white;
+  display: none;
+  flex-direction: column;
+  padding: 2.5rem;
+  z-index: 9999;
+}
+
+.menu-overlay.open {
+  display: flex;
+}
+
+.close-menu {
+  background: none;
+  border: none;
+  font-size: 3rem;
+  align-self: flex-end;
+  cursor: pointer;
+  line-height: 1;
+}
+
+.overlay-nav {
+  margin-top: 3rem;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.overlay-nav a {
+  font-size: 1.6rem;
+  font-weight: 500;
+}
+
+/* ---------------- HERO ---------------- */
+
+.hero {
+  padding: 6rem 2rem 5rem;
+}
+
+.hero-inner {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 6rem;
+  align-items: center;
+}
+
+.hero h1 {
+  font-size: clamp(4.5rem, 8vw, 8rem);
+  font-weight: 700;
+  line-height: 1;
+  margin-bottom: 1.5rem;
+}
+
+.hero-text h1 {
+  position: relative;
+}
+
+.hero-text h1::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -0.5rem;
+  width: 90px;        
+  height: 5px;        
+  background: var(--accent);
+  border-radius: 2px;
+}
+
+
+.hero-subtitle {
+  font-size: 1.8rem;
+  font-weight: 400;
+  max-width: 32ch;
+  margin-bottom: 1.8rem;
+  margin-top: 1.5rem;
+}
+
+.hero-affiliation {
+  font-size: 1.1rem;
+  color: var(--muted);
+}
+
+/* HERO IMAGE (TALL ROTMAN STYLE) */
+.hero-image img {
+  width: 100%;
+  height: 100%;
+  max-height: 95vh;
+  object-fit: cover;
+  object-position: center top;
+  border-radius: 2px;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.12);
+}
+
+/* ---------------- SECTIONS ---------------- */
+
+.section {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 6rem 2rem;
+  border-top: 2px solid #e0e0e0;
+}
+
+.section:first-of-type {
+  border-top: none;
+}
+
+.section h2 {
+  font-size: 2.8rem;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+}
+
+.section > p {
+  font-size: 1.2rem;
+  line-height: 1.7;
+  max-width: 70ch;
+}
+
+.bio p {
+  margin-bottom: 1.5rem;
+}
+
+.bio p:last-child {
+  margin-bottom: 0;
+}
+
+.cards {
+  display: grid;
+  gap: 3rem;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  margin-top: 2.5rem;
+}
+
+.card {
+  padding: 2rem;
+  border-radius: 4px;
+  background: #fafafa;
+  transition: all 0.3s ease;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+}
+
+.card:hover {
+  background: white;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.08);
+  transform: translateY(-4px);
+}
+
+.card h3 {
+  margin-top: 0;
+  font-size: 1.75rem;
+  font-weight: 600;
+  margin-bottom: 0.75rem;
+  transition: color 0.3s ease;
+}
+
+.card:hover h3 {
+  color: var(--accent);
+}
+
+.card-summary {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  margin-bottom: 0;
+}
+
+.card-detail {
+  max-height: 0;
+  opacity: 0;
+  overflow: hidden;
+  transition: all 0.4s ease;
+  margin-top: 0;
+}
+
+.card:hover .card-detail {
+  max-height: 300px;
+  opacity: 1;
+  margin-top: 1.25rem;
+}
+
+.card-detail p {
+  font-size: 1rem;
+  line-height: 1.65;
+  color: var(--muted);
+  margin: 0;
+}
+
+.contact-links a {
+  margin-right: 0.5rem;
+}
+
+/* Featured Work Styling */
+.featured-work {
+  margin-top: 2.5rem;
+}
+
+.work-item {
+  margin-bottom: 3.5rem;
+  padding-bottom: 3.5rem;
+  border-bottom: 1px solid #e9e9e9;
+}
+
+.work-item:last-child {
+  border-bottom: none;
+  margin-bottom: 2rem;
+  padding-bottom: 0;
+}
+
+.work-item h3 {
+  font-size: 1.6rem;
+  font-weight: 600;
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+  line-height: 1.3;
+}
+
+.work-item h3 a {
+  color: var(--text);
+  transition: color 0.2s ease;
+}
+
+.work-item h3 a:hover {
+  color: var(--accent);
+}
+
+.work-citation {
+  font-size: 1rem;
+  color: var(--muted);
+  margin-bottom: 1rem;
+  line-height: 1.6;
+}
+
+.work-award {
+  font-size: 1rem;
+  font-weight: 500;
+  color: var(--accent);
+  margin-bottom: 1rem;
+}
+
+.work-description {
+  font-size: 1.1rem;
+  line-height: 1.7;
+  margin-bottom: 1rem;
+}
+
+.work-media {
+  font-size: 0.95rem;
+  color: var(--muted);
+  margin-top: 1rem;
+}
+
+.media-label {
+  font-weight: 500;
+  color: var(--text);
+}
+
+.work-media a {
+  color: var(--muted);
+  text-decoration: underline;
+  transition: color 0.2s ease;
+}
+
+.work-media a:hover {
+  color: var(--accent);
+}
+
+.work-footer {
+  margin-top: 2.5rem;
+  font-size: 1.05rem;
+}
+
+.work-footer a {
+  color: var(--accent);
+  font-weight: 500;
+  transition: opacity 0.2s ease;
+}
+
+.work-footer a:hover {
+  opacity: 0.8;
+}
+
+/* ---------------- FOOTER ---------------- */
+
+.site-footer {
+  text-align: center;
+  padding: 4rem 2rem;
+  color: var(--muted);
+  font-size: 0.9rem;
+  border-top: 1px solid #eee;
+}
+
+/* ---------------- PAGE HEADER (for subpages) ---------------- */
+
+.page-header {
+  padding: 4rem 2rem 3rem;
+  border-bottom: 2px solid #e0e0e0;
+}
+
+.page-header-inner {
+  max-width: var(--max-width);
+  margin: 0 auto;
+}
+
+.page-header h1 {
+  font-size: clamp(3rem, 5vw, 4.5rem);
+  font-weight: 700;
+  margin: 0;
+}
+
+.page-subtitle {
+  font-size: 1.1rem;
+  color: var(--muted);
+  margin-top: 1rem;
+}
+
+.page-subtitle a {
+  color: var(--accent);
+  font-weight: 500;
+}
+
+/* ---------------- ARTICLES PAGE ---------------- */
+
+.articles-list {
+  max-width: 900px;
+}
+
+.article-item {
+  margin-bottom: 2.5rem;
+  padding-bottom: 2.5rem;
+  border-bottom: 1px solid #e9e9e9;
+}
+
+.article-item:last-child {
+  border-bottom: none;
+}
+
+.article-item h3 {
+  font-size: 1.3rem;
+  font-weight: 600;
+  line-height: 1.4;
+  margin: 0 0 0.75rem 0;
+}
+
+.article-meta {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: var(--muted);
+  margin-bottom: 0.5rem;
+}
+
+.article-award {
+  font-size: 1rem;
+  font-weight: 500;
+  color: var(--accent);
+  margin-bottom: 0.5rem;
+}
+
+.article-links {
+  font-size: 0.95rem;
+}
+
+.article-links a {
+  color: var(--muted);
+  text-decoration: underline;
+  transition: color 0.2s ease;
+}
+
+.article-links a:hover {
+  color: var(--accent);
+}
+
+/* ---------------- WORKING PAPERS PAGE ---------------- */
+
+.working-papers-list {
+  max-width: 900px;
+}
+
+.paper-item {
+  margin-bottom: 2.5rem;
+  padding-bottom: 2.5rem;
+  border-bottom: 1px solid #e9e9e9;
+}
+
+.paper-item:last-child {
+  border-bottom: none;
+}
+
+.paper-item h3 {
+  font-size: 1.3rem;
+  font-weight: 600;
+  line-height: 1.4;
+  margin: 0 0 0.75rem 0;
+}
+
+.paper-item h3 a {
+  color: var(--text);
+  transition: color 0.2s ease;
+}
+
+.paper-item h3 a:hover {
+  color: var(--accent);
+}
+
+.paper-meta {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: var(--muted);
+}
+
+/* ---------------- CONTACT PAGE ---------------- */
+
+.contact-page {
+  max-width: 800px;
+}
+
+.contact-content {
+  display: grid;
+  gap: 3rem;
+}
+
+.contact-section h2 {
+  font-size: 1.6rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: var(--text);
+}
+
+.contact-section p {
+  font-size: 1.1rem;
+  line-height: 1.7;
+  margin: 0;
+}
+
+.contact-section a {
+  color: var(--accent);
+  font-weight: 500;
+  transition: opacity 0.2s ease;
+}
+
+.contact-section a:hover {
+  opacity: 0.8;
+}
+
+.profile-links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.profile-links li {
+  margin-bottom: 0.75rem;
+}
+
+.profile-links a {
+  font-size: 1.1rem;
+  color: var(--accent);
+  font-weight: 500;
+  text-decoration: underline;
+  transition: opacity 0.2s ease;
+}
+
+.profile-links a:hover {
+  opacity: 0.8;
+}
+
+/* ---------------- BOOKS PAGE ---------------- */
+
+.book-showcase {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+.book-layout {
+  display: grid;
+  grid-template-columns: 1fr 1.5fr;
+  gap: 5rem;
+  align-items: start;
+}
+
+.book-cover img {
+  width: 100%;
+  max-width: 450px;
+  height: auto;
+  border-radius: 4px;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.15);
+}
+
+.book-details h2 {
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.2;
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+}
+
+.book-meta {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: var(--muted);
+  margin-bottom: 2rem;
+}
+
+.book-meta strong {
+  color: var(--text);
+  font-weight: 600;
+}
+
+.book-description {
+  margin-bottom: 2.5rem;
+}
+
+.book-description p {
+  font-size: 1.1rem;
+  line-height: 1.7;
+  margin-bottom: 1.25rem;
+}
+
+.book-links h3 {
+  font-size: 1.4rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.review-links {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 2rem;
+}
+
+.review-links li {
+  margin-bottom: 0.5rem;
+}
+
+.review-links a {
+  font-size: 1.05rem;
+  color: var(--muted);
+  text-decoration: underline;
+  transition: color 0.2s ease;
+}
+
+.review-links a:hover {
+  color: var(--accent);
+}
+
+.buy-link {
+  margin-top: 2rem;
+}
+
+.cta-button {
+  display: inline-block;
+  padding: 0.9rem 1.8rem;
+  background: var(--accent);
+  color: white !important;
+  font-weight: 600;
+  font-size: 1.05rem;
+  border-radius: 4px;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.cta-button:hover {
+  background: #e66d15;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(255, 122, 26, 0.3);
+}
+
+/* Responsive for books page */
+@media (max-width: 900px) {
+  .book-layout {
+    grid-template-columns: 1fr;
+    gap: 3rem;
+  }
+  
+  .book-cover img {
+    max-width: 350px;
+  }
+}
+
+/* ---------------- RESPONSIVE ---------------- */
+
+@media (max-width: 900px) {
+  .hero-inner {
+    grid-template-columns: 1fr;
+    gap: 3rem;
+  }
+
+  .hero-image img {
+    max-height: 70vh;
+  }
+}
